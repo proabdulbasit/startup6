@@ -1,0 +1,231 @@
+insert_article('1', 'Ley de trabajo sexual', 'Es lícito el trabajo sexual realizado en las condiciones que fijan la 
+presente ley y demás disposiciones aplicables.')
+insert_article('2', 'Ley de trabajo sexual', 'Son trabajadores sexuales todas las personas mayores de dieciocho años 
+de edad que habitualmente ejerzan la prostitución, recibiendo a cambio 
+una remuneración en dinero o en especie.
+Se autorizará el ejercicio del trabajo sexual a aquellas personas que 
+estén inscritas en el Registro Nacional del Trabajo Sexual y posean el 
+carné sanitario con los controles al día.')
+insert_article('3', 'Ley de trabajo sexual', 'Por el solo hecho de su actividad, no serán pasibles de detención por 
+parte de la autoridad policial, las personas que ejerzan el trabajo 
+sexual de acuerdo a las normas establecidas en la presente ley y demás 
+disposiciones.')
+insert_article('4', 'Ley de trabajo sexual', 'Las tareas de prevención y represión de la explotación de las personas 
+que ejerzan el trabajo sexual, así como el evitar perjuicio a terceros y 
+preservar el orden público, serán competencia del Ministerio del 
+Interior. Este deberá también prestar apoyo a las autoridades del 
+Ministerio de Salud Pública cuando así se le requiriere.
+El Ministerio de Salud Pública controlará que se cumplan las 
+disposiciones sanitarias a fin de promover y preservar la salud del 
+trabajador sexual y de la comunidad.
+A estos efectos, estos Ministerios tendrán la facultad de ingresar a 
+todos los locales en que se ejerza el trabajo sexual, sin perjuicio de la 
+competencia de otros organismos.
+En todos los casos el funcionario actuante, bajo su responsabilidad, 
+deberá labrar un acta resumida donde se asentará:
+A) Fecha y hora del ingreso.
+B) Causa del ingreso.
+C) Descripción de las actividades realizadas en el local.
+D) Firma de las autoridades intervinientes y de quien esté a cargo 
+   del local intervenido o constancia de no querer firmar.
+Quien o quienes actúen a nombre del local intervenido o cualquiera de sus 
+trabajadores podrán estampar en el acta las observaciones que estimen 
+pertinentes.')
+insert_article('5', 'Ley de trabajo sexual', 'Créase en la órbita del Ministerio de Salud Pública la Comisión Nacional 
+Honoraria de Protección al Trabajo Sexual, que se integrará de la 
+siguiente manera:
+- Un delegado del Ministerio de Salud Pública, que la presidirá.
+- Un delegado del Ministerio del Interior.
+- Un delegado del Ministerio de Trabajo y Seguridad Social.
+- Un delegado del Instituto Nacional del Menor (INAME).
+- Un delegado del Congreso de Intendentes.
+- Dos delegados de las organizaciones no gubernamentales que 
+  representen a los trabajadores sexuales, designados de acuerdo a lo
+  que disponga la reglamentación de la presente ley. (*)
+(*)Notas:
+Ver en esta norma, artículo: 31.')
+insert_article('6', 'Ley de trabajo sexual', 'La Comisión Nacional Honoraria de Protección al Trabajo Sexual podrá 
+comunicarse directamente con los Poderes Públicos y tendrá los siguientes 
+cometidos:
+A) Asesorar al Poder Ejecutivo en esta materia.
+B) Velar por el cumplimiento de la presente ley y su reglamentación.
+C) Brindar asesoramiento a los trabajadores sexuales sobre sus 
+   derechos y deberes, apoyándolos en cualquier acción legal que tienda a
+   protegerlos contra cualquier forma de explotación.
+D) Promover cursos de educación sexual y sanitaria entre los 
+   trabajadores sexuales. Colaborar en las campañas que, utilizando los 
+   medios de comunicación de masas y otros modos de difusión, realicen
+   las autoridades competentes sobre el tema.
+E) Proponer su propio reglamento de funcionamiento. 
+CAPITULO II - DEL REGISTRO NACIONAL DEL TRABAJO SEXUAL')
+insert_article('7', 'Ley de trabajo sexual', 'El Registro Nacional del Trabajo Sexual expedirá a cada trabajador 
+sexual un carné, el que le habilitará para el ejercicio del trabajo 
+sexual en todo el país.
+Dicho carné deberá necesariamente contener:
+A) Nombre, apellido y fecha de nacimiento del titular.
+B) Fotografía.
+C) Número de cédula de identidad.
+D) Seudónimo si lo tuviera.
+E) El número de registro.
+F) Constancia de haber obtenido el carné de salud habilitante.
+Este documento tendrá una validez de tres años, vencidos los cuales 
+deberá ser renovado.')
+insert_article('8', 'Ley de trabajo sexual', 'La inscripción en el Registro Nacional del Trabajo Sexual podrá ser 
+voluntaria o de oficio.
+Será voluntaria cuando la persona se presente directamente a las 
+autoridades competentes para su inscripción y cumpla con los requisitos 
+para ello exigidos.
+Será de oficio cuando la persona ejerza el trabajo sexual sin estar 
+inscrito.')
+insert_article('9', 'Ley de trabajo sexual', 'El Registro Nacional del Trabajo Sexual será llevado simultáneamente por 
+los Ministerios de Salud Pública y del Interior.
+La reglamentación del Poder Ejecutivo asegurará la permanente 
+disponibilidad de la información registrada, para ambos Ministerios.
+No podrá autorizarse la inscripción si no se dispone del certificado de 
+salud que habilite para el trabajo sexual.')
+insert_article('10', 'Ley de trabajo sexual', 'No se efectuará la inscripción de aquella persona que fuera sorprendida 
+ejerciendo el trabajo sexual en forma no reglamentaria y que declare no 
+reincidir en dicha actividad, bajo apercibimiento de que, en caso de 
+reincidencia comprobada, será inscrita sin más trámite en el Registro 
+respectivo. Asimismo, se le notificarán las eventuales sanciones si no se 
+cumpliese con lo establecido en los artículos 17 y 31 de la presente 
+ley.
+Todo trabajador sexual tiene derecho a obtener la baja del Registro. Para 
+ello deberá presentarse ante la autoridad competente y solicitarla.
+Será eliminada de oficio del Registro toda persona que hubiere ejercido 
+el trabajo sexual y que durante un año no documentare su concurrencia a 
+control sanitario. Se citará personal y reservadamente al interesado para 
+notificarle el acto administrativo dictado por la autoridad pública, 
+informándole lo dispuesto por el presente artículo y por los artículos 11 
+y 32 de la presente ley.')
+insert_article('11', 'Ley de trabajo sexual', 'Quien haya sido dado de baja del Registro Nacional del Trabajo Sexual a 
+solicitud de parte o de oficio, podrá reinscribirse, debiendo para ello 
+cumplir con todos los requisitos establecidos en la presente ley.')
+insert_article('12', 'Ley de trabajo sexual', 'El hecho de estar inscrito en el Registro que se crea no será causal de 
+impedimento para otorgar certificados de buena conducta a quienes ejerzan 
+el trabajo sexual.')
+insert_article('13', 'Ley de trabajo sexual', 'Los datos e informaciones contenidos en el Registro Nacional del Trabajo 
+Sexual son de carácter reservado. Sólo podrán ser utilizados con fines 
+sanitarios o policiales por organismos encargados de hacer efectivo el 
+cumplimiento de la presente ley, a solicitud de la justicia competente o 
+del Ministerio de Salud Pública a través de cualquiera de sus 
+dependencias o de la propia persona interesada con respecto a la 
+información que sobre sí esté registrada. 
+CAPITULO III
+SECCION I - DE LAS PAUTAS SANITARIAS, CONTROL Y CUMPLIMIENTO')
+insert_article('14', 'Ley de trabajo sexual', 'Todo trabajador sexual deberá someterse a controles sanitarios que 
+incluyan examen clínico y paraclínico de acuerdo a las pautas previstas 
+por el Ministerio de Salud Pública.')
+insert_article('15', 'Ley de trabajo sexual', 'La atención a las personas que ejerzan el trabajo sexual comprenderá, 
+asimismo, los aspectos de educación y promoción de salud, con énfasis en 
+la profilaxis de las enfermedades de transmisión sexual.')
+insert_article('16', 'Ley de trabajo sexual', 'En cada una de las capitales departamentales existirá, a disposición de 
+los trabajadores sexuales y de quienes soliciten información, un equipo 
+mínimo interdisciplinario formado por médico, nurso o nurse o auxiliar de 
+enfermería y asistente social.')
+insert_article('17', 'Ley de trabajo sexual', 'El Ministerio de Salud Pública expedirá en forma gratuita a los 
+trabajadores sexuales un carné sanitario que acreditará el adecuado 
+control de su estado de salud.
+El que ejerciere esta actividad sin el carné sanitario vigente incurrirá 
+en las infracciones previstas en el artículo 31 de la presente ley. 
+CAPITULO IV - DE LAS ZONAS, LUGARES Y COMPORTAMIENTOS')
+insert_article('18', 'Ley de trabajo sexual', 'Se autorizará la oferta de trabajo sexual en zonas especialmente 
+determinadas, así como en prostíbulos, whiskerías, bares de camareras, o 
+similares que hayan obtenido la habilitación correspondiente. 
+SECCION I - DE LAS ZONAS Y COMPORTAMIENTOS')
+insert_article('19', 'Ley de trabajo sexual', 'En cada departamento del país la Intendencia Municipal, en coordinación 
+con las autoridades sanitaria y policial, previa consulta (sin carácter 
+vinculante) a la organización de trabajadores sexuales del departamento 
+si existiese, establecerá zonas en donde se podrá ofrecer el trabajo 
+sexual. Las zonas estarán perfectamente delimitadas en cuanto a áreas 
+geográficas y horarios, teniendo en cuenta el número de trabajadores 
+sexuales.')
+insert_article('20', 'Ley de trabajo sexual', 'No podrán habilitarse zonas donde existan institutos de enseñanza. Al 
+respecto deberán tomarse en cuenta los antecedentes que brinde la 
+autoridad policial, considerando también los cambios edilicios de la 
+ciudad.')
+insert_article('21', 'Ley de trabajo sexual', 'La reglamentación deberá prever en forma precisa el horario, la 
+vestimenta, como así también el comportamiento del trabajador sexual, de 
+modo que no afecte la sensibilidad de las familias de la vecindad ni 
+resulte lesivo para niños o adolescentes.
+Asimismo se atenderán las realidades y formas de convivencia de cada 
+localidad. 
+SECCION II - DE LOS PROSTIBULOS Y CASAS DE MASAJES')
+insert_article('22', 'Ley de trabajo sexual', 'A efectos de la presente ley se considerará prostíbulo todo local donde 
+se brinde servicio de trabajo sexual, cualquiera sea la denominación 
+comercial o pública con que se den a conocer los mismos.')
+insert_article('23', 'Ley de trabajo sexual', 'Las casas de masajes con fines terapéuticos serán habilitadas por el 
+Ministerio de Salud Pública. En un plazo no mayor de noventa días de 
+promulgada la presente ley, dictará el reglamento que deberán cumplir. 
+Será requisito necesario la disposición de normas sobre el cuerpo 
+profesional, el programa terapéutico que desarrollan y la prohibición de 
+todo tipo de trabajo sexual en el local.
+El Ministerio de Salud Pública estará facultado para inspeccionar dichos locales a efectos de constatar el cumplimiento de la reglamentación. (*)
+(*)Notas:
+Reglamentado por: Decreto Nº 482/003 de 20/11/2003.')
+insert_article('24', 'Ley de trabajo sexual', 'Ningún local donde se ejerza el trabajo sexual podrá funcionar sin la 
+autorización de la Jefatura de Policía correspondiente.
+Para obtener la autorización el establecimiento deberá exhibir y 
+acreditar estar habilitado por la Intendencia Municipal correspondiente y 
+controlado por el Ministerio de Salud Pública, conforme a las 
+disposiciones vigentes. (*)
+(*)Notas:
+Ver en esta norma, artículo: 25.')
+insert_article('25', 'Ley de trabajo sexual', 'La habilitación de un prostíbulo sólo se concederá a la persona física 
+que se presente por escrito, la que será responsable ante la autoridad 
+competente por cualquier incumplimiento de las normas dentro del 
+establecimiento.
+Se concederá la habilitación, previa declaración del lugar donde se 
+ubicará el establecimiento, siempre que no existan impedimentos 
+establecidos por la presente ley o por el Decreto 422/980, de 29 de julio 
+de 1980.
+El cambio de local se autorizará previa notificación a la autoridad 
+policial y siguiendo los mismos trámites reglados por el artículo 24 de 
+la presente ley.')
+insert_article('26', 'Ley de trabajo sexual', 'Los prostíbulos podrán distinguirse de las demás fincas por medio de 
+señales o carteles que no sean lesivos a la moral o al orden público.
+No se podrá emplear a menores de dieciocho años como mensajeros, 
+domésticos, vendedores o similares y se deberá cumplir con las normas de 
+seguridad social vigentes.
+Quedan prohibidos los juegos de azar y todo tipo de diversión ruidosa. 
+SECCION III - DE LAS WHISKERIAS')
+insert_article('27', 'Ley de trabajo sexual', 'Están sujetos a las disposiciones de la presente ley aquellos 
+establecimientos que, bajo la denominación accidental de whiskerías, 
+bares de camareras, o similares reciban a personas que oferten o ejerzan 
+el trabajo sexual en sus instalaciones.')
+insert_article('28', 'Ley de trabajo sexual', 'Para su instalación y funcionamiento deberán contar con la habilitación 
+municipal correspondiente, así como con la que otorgará la Jefatura de 
+Policía departamental.')
+insert_article('29', 'Ley de trabajo sexual', 'Los citados locales deberán ajustarse a las disposiciones legales 
+vigentes en materia municipal, laboral, del Ministerio de Salud Pública y 
+las que la presente ley o la reglamentación determinen.')
+insert_article('30', 'Ley de trabajo sexual', 'No podrán aceptarse como artistas, visitantes o empleados, a personas 
+menores de dieciocho años. 
+CAPITULO V - INFRACCIONES MULTAS Y PENAS ALTERNATIVAS')
+insert_article('31', 'Ley de trabajo sexual', 'La violación de cualquiera de las disposiciones de la presente ley por 
+parte de trabajadores sexuales o de los propietarios de los 
+establecimientos comerciales habilitados para el ejercicio del trabajo 
+sexual será castigada con multa de 5 UR (cinco unidades reajustables) a 
+100 UR (cien unidades reajustables), sin perjuicio de la configuración de 
+otros hechos delictivos.
+Lo recaudado por este rubro será destinado a fondos de la Comisión 
+Honoraria de Protección al Trabajo Sexual creada por el artículo 5º de la 
+presente ley.')
+insert_article('32', 'Ley de trabajo sexual', 'Serán competentes para conocer en la aplicación de las disposiciones de 
+la presente ley, el Tribunal de Faltas en Montevideo y los Juzgados de 
+Paz Departamentales en el interior del país.')
+insert_article('33', 'Ley de trabajo sexual', 'El Juez o Tribunal competente podrá determinar la sustitución de la 
+multa o prisión impuesta por la sentencia por trabajo comunitario 
+equivalente teniendo en cuenta los objetivos de la presente ley.')
+insert_article('34', 'Ley de trabajo sexual', 'Según las circunstancias del caso, podrá presumirse incursa en el delito 
+previsto por el artículo 1º de la Ley Nº 8.080, de 27 de mayo de 1927, en 
+la redacción dada por el artículo 24 de la Ley Nº 16.707, de 12 de julio 
+de 1995, toda persona que explotare una finca para el ejercicio del 
+trabajo sexual, percibiendo por esto un precio que le provea a ella o a 
+un tercero un beneficio excesivo.')
+insert_article('35', 'Ley de trabajo sexual', 'El Poder Ejecutivo reglamentará la presente ley en el término de noventa 
+días a partir de su promulgación.
+
+
+BATLLE - GUILLERMO STIRLING - JOSE CARLOS CARDOSO - ALVARO ALONSO -
+ALFONSO VARELA')
